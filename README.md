@@ -10,7 +10,7 @@
 	console.log(result);
 	// => 'http://denghao.me/1.jpg'
 
-### more situation
+### More situation
 	absUrl('1.jpg', 'http://denghao.me/a');
 	// => http://denghao.me/a/1.jpg
 
