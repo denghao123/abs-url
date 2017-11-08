@@ -1,0 +1,19 @@
+{
+  "name": "abs-url",
+  "version": "1.0.0",
+  "description": "relative to absolute url",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denghao123/abs-url.git"
+  },
+  "author": "DH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denghao123/abs-url/issues"
+  },
+  "homepage": "https://github.com/denghao123/abs-url#readme"
+}
